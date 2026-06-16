@@ -1,13 +1,16 @@
 {
-  "hero.heading": "Get in touch",
-  "hero.subheading": "Not sure if this is relevant to you? That's exactly the right reason to reach out.",
+  "hero.heading": "Let's talk",
+  "hero.subheading": "Discovery calls are 30 minutes. Whether you have a finished AI system, a pilot in progress, or a question on a leadership agenda, I'll look at where you are and tell you honestly what would help.",
 
-  "email.heading": "Book a conversation",
-  "email.body": "A 20-minute conversation costs nothing and usually answers the question. Tell me a bit about your situation and I'll reply within one working day.",
+  "intro.heading": "What happens in a discovery call",
+  "intro.body": "We spend 30 minutes looking at your situation together: a live system, an innovation project, a team that needs to get up to speed, or an organisation working out what responsible AI adoption even means for them. You leave with a clear sense of where the gaps are and whether working together makes sense. There is no pitch, no obligation, and no invoice.",
+
+  "email.heading": "Send a message",
+  "email.body": "The best way to reach me is by email. I aim to respond within two working days.",
   "email.cta": "Send an email",
-  "email.direct": "Or write directly to",
+  "email.direct": "info@jennifersimonds.com",
 
   "linkedin.heading": "Connect on LinkedIn",
-  "linkedin.body": "Follow the Trust by Design work and connect with Jennifer Simonds.",
-  "linkedin.link": "View LinkedIn profile"
+  "linkedin.body": "I write about EU AI Act implementation, accessible AI design, and responsible AI adoption. Follow along or send a message there.",
+  "linkedin.link": "linkedin.com/in/simondsjennifer"
 }

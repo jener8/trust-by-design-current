@@ -1,13 +1,16 @@
 {
-  "hero.heading": "Kontakt aufnehmen",
-  "hero.subheading": "Nicht sicher, ob das fuer Sie relevant ist? Genau das ist der richtige Grund, sich zu melden.",
+  "hero.heading": "Lassen Sie uns sprechen",
+  "hero.subheading": "Erstgespräche dauern 30 Minuten. Ob Sie ein fertiges KI-System, einen laufenden Pilot oder eine Frage auf der Führungsagenda haben, ich schaue, wo Sie stehen, und sage ehrlich, was helfen würde.",
 
-  "email.heading": "Gespraech vereinbaren",
-  "email.body": "Ein 20-minuetiges Gespraech kostet nichts und beantwortet meist die Frage. Erzaehlen Sie mir ein wenig ueber Ihre Situation und ich antworte innerhalb eines Werktags.",
+  "intro.heading": "Was in einem Erstgespräch passiert",
+  "intro.body": "Wir verbringen 30 Minuten damit, Ihre Situation gemeinsam anzuschauen: ein Live-System, ein Innovationsprojekt, ein Team, das sich einarbeiten muss, oder eine Organisation, die herausfindet, was verantwortungsvolle KI-Adoption für sie bedeutet. Sie gehen mit einem klaren Bild davon, wo die Lücken liegen und ob eine Zusammenarbeit sinnvoll ist. Kein Pitch, keine Verpflichtung und keine Rechnung.",
+
+  "email.heading": "Nachricht senden",
+  "email.body": "Am besten erreichen Sie mich per E-Mail. Ich antworte in der Regel innerhalb von zwei Werktagen.",
   "email.cta": "E-Mail senden",
-  "email.direct": "Oder schreiben Sie direkt an",
+  "email.direct": "info@jennifersimonds.com",
 
   "linkedin.heading": "Auf LinkedIn verbinden",
-  "linkedin.body": "Folgen Sie der Trust by Design Arbeit und verbinden Sie sich mit Jennifer Simonds.",
-  "linkedin.link": "LinkedIn-Profil ansehen"
+  "linkedin.body": "Ich schreibe über EU-AI-Act-Implementierung, zugängliches KI-Design und verantwortungsvolle KI-Adoption. Folgen Sie mit oder schreiben Sie mir dort.",
+  "linkedin.link": "linkedin.com/in/simondsjennifer"
 }

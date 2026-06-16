@@ -1,21 +1,21 @@
 {
-  "hero.sub": "We help regulated organisations in government, health, and finance build the human layer that makes AI systems trustworthy, compliant, and actually adopted.",
+  "hero.sub": "We help regulated organisations in government, health, and finance explore, adopt, and deploy AI in ways that are human-centred, responsible, and trusted — whether you are just starting out or already in production.",
   "hero.cta": "Book a Discovery Call",
   "hero.cta2": "See the Framework",
 
-  "gap.left.heading": "Your AI system is technically ready.",
-  "gap.left.body": "It\u2019s accurate. It\u2019s secure. It meets your compliance checklist. Your team built it well.",
-  "gap.right.heading": "But is it humanly trustworthy?",
-  "gap.right.body": "If users can\u2019t understand its decisions, can\u2019t recover when it\u2019s wrong, and can\u2019t override it when they need to \u2014 it will fail in the field. That\u2019s not a technical problem. It\u2019s a design problem.",
-  "gap.callout": "67% of users abandon AI systems they don\u2019t understand. 42% more helpdesk costs follow. We fix this before it happens.",
+  "gap.left.heading": "Your organisation is moving towards AI.",
+  "gap.left.body": "You have ambition, budget, and pressure to act. You may have a pilot running, a vendor shortlisted, or a leadership mandate to deliver.",
+  "gap.right.heading": "But is your organisation actually ready?",
+  "gap.right.body": "Technology is the easy part. What derails AI adoption is the human layer: trust, communication, governance, accessibility, and organisational readiness. These are design problems — and they need to be solved early, not retrofitted at the end.",
+  "gap.callout": "We work with organisations at every stage — from early exploration and innovation through to production deployment and compliance. The earlier you address the human layer, the less it costs to get right.",
 
   "services.heading": "Three ways we work with you",
   "services.s1.title": "Trust Audit",
-  "services.s1.body": "We assess your AI system against the four Trust Layer principles \u2014 explainability, recoverability, accessibility, and human control \u2014 and show you exactly where the gaps are.",
+  "services.s1.body": "We assess your AI system or AI adoption plans against the four Trust Layer principles — explainability, recoverability, accessibility, and human control — and show you exactly where the gaps are, whether you are in discovery or in production.",
   "services.s2.title": "Framework Implementation",
-  "services.s2.body": "We design and build the Trust Layer into your existing AI systems and processes, working alongside your product, UX, and compliance teams.",
+  "services.s2.body": "We design and build the Trust Layer into your AI systems, innovation projects, and organisational processes — working alongside your technical, product, UX, compliance, and leadership teams from early exploration through to deployment.",
   "services.s3.title": "EU AI Act Readiness",
-  "services.s3.body": "We map your high-risk AI obligations and build the human-centred compliance layer you need before August 2026.",
+  "services.s3.body": "We map your high-risk AI obligations — current and anticipated — and build the human-centred compliance layer your organisation needs. Enforcement is underway. We help you move from documentation to implementation.",
 
   "sectors.heading": "We work with regulated industries deploying high-risk AI",
   "sectors.gov.title": "Government",
@@ -26,11 +26,11 @@
   "sectors.finance.body": "Banks, insurers, and financial institutions using AI for credit, fraud, or eligibility decisions.",
 
   "evidence.heading": "Built on research. Validated in practice.",
-  "evidence.p1": "The Trust by Design framework was developed through independent research across 14+ AI implementation teams in the German public sector, and has been validated through advisory sessions with process management leaders in regulated government institutions.",
-  "evidence.p2": "We don\u2019t consult from the outside. We\u2019ve built government AI systems from the inside.",
-  "evidence.strip": "Framework presented to 6+ German government communities \u00B7 Master\u2019s research, ELISAVA \u00B7 EU AI Act specialist",
+  "evidence.p1": "The Trust by Design framework was developed through independent research across 14+ AI implementation teams in the German public sector, and validated through advisory work with regulated organisations across government, health, and finance.",
+  "evidence.p2": "We don't consult from the outside. We've built government AI systems from the inside — including Germany's first BITV-certified government application, with over a million users.",
+  "evidence.strip": "i-Kfz · Germany's first BITV-certified government app · 1M+ downloads · Presented to 6+ German government communities · MA Design for Responsible AI · EU AI Act specialist",
 
-  "tools.heading": "Self-service tools if you\u2019re not ready to talk yet",
+  "tools.heading": "Self-service tools if you're not ready to talk yet",
   "tools.audit.body": "Run your own Trust Layer assessment. Identify explainability, recovery, accessibility, and control gaps in your AI system.",
   "tools.bridge.body": "See how the Trust Layer works in practice across government, health, and finance.",
 

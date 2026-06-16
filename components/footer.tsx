@@ -31,13 +31,28 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="hover:text-white transition-colors min-h-[44px] inline-flex items-center">
-                  {t("nav.aboutMe")}
+                <Link href="/education" className="hover:text-white transition-colors min-h-[44px] inline-flex items-center">
+                  {t("nav.education")}
+                </Link>
+              </li>
+              <li>
+                <Link href="/innovation" className="hover:text-white transition-colors min-h-[44px] inline-flex items-center">
+                  {t("nav.innovation")}
+                </Link>
+              </li>
+              <li>
+                <Link href="/compliance" className="hover:text-white transition-colors min-h-[44px] inline-flex items-center">
+                  {t("nav.compliance")}
                 </Link>
               </li>
               <li>
                 <Link href="/framework" className="hover:text-white transition-colors min-h-[44px] inline-flex items-center">
                   {t("nav.theMethod")}
+                </Link>
+              </li>
+              <li>
+                <Link href="/about" className="hover:text-white transition-colors min-h-[44px] inline-flex items-center">
+                  {t("nav.aboutMe")}
                 </Link>
               </li>
               <li>

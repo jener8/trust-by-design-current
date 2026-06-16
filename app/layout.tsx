@@ -7,6 +7,7 @@ import { PageDataAttribute } from "@/components/page-data-attribute"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { ScrollToTop } from "@/components/scroll-to-top"
+import { AnnouncementBanner } from "@/components/announcement-banner"
 
 const inter = Inter({
   subsets: ["latin"],
@@ -44,11 +45,7 @@ export default function RootLayout({
           <a href="#main-content" className="skip-to-content">
             Skip to main content
           </a>
-          <div className="w-full bg-[#F5A623] py-2 text-center" role="status">
-            <p className="text-xs font-medium text-[#0F1B2D]">
-              {"EU AI Act enforcement begins August 2026 \u00B7 Is your organisation ready?"}
-            </p>
-          </div>
+          <AnnouncementBanner />
           <Header />
           <div id="main-content">
             {children}

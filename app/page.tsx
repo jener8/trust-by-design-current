@@ -5,25 +5,72 @@ import Image from "next/image"
 import Link from "next/link"
 
 const content = {
-  banner: "EU AI Act enforcement begins August 2026 \u00B7 Is your organisation ready?",
   nav: { home: "Home", about: "About", method: "The Method", contact: "Contact" },
   hero: {
     headline: "Deploy High-Risk AI with Confidence.",
-    sub: "We help regulated organisations in government, health, and finance build the human layer that makes AI systems trustworthy, compliant, and actually adopted.",
+    sub: "We help regulated organisations in government, health, and finance explore, adopt, and deploy AI in ways that are human-centred, responsible, and trusted \u2014 whether you are just starting out or already in production.",
     cta1: "Book a Discovery Call",
     cta2: "See the Framework"
   },
   gap: {
     heading: "The gap no one is designing for",
-    left: { heading: "Your AI system is technically ready.", body: "It\u2019s accurate. It\u2019s secure. It meets your compliance checklist. Your team built it well." },
-    right: { heading: "But is it humanly trustworthy?", body: "If users can\u2019t understand its decisions, can\u2019t recover when it\u2019s wrong, and can\u2019t override it when they need to \u2014 it will fail in the field. That\u2019s not a technical problem. It\u2019s a design problem." },
-    callout: "67% of users abandon AI systems they don\u2019t understand. 42% more helpdesk costs follow. We fix this before it happens."
+    left: {
+      heading: "Your organisation is moving towards AI.",
+      body: "You have ambition, budget, and pressure to act. You may have a pilot running, a vendor shortlisted, or a leadership mandate to deliver."
+    },
+    right: {
+      heading: "But is your organisation actually ready?",
+      body: "Technology is the easy part. What derails AI adoption is the human layer: trust, communication, governance, accessibility, and organisational readiness. These are design problems \u2014 and they need to be solved early, not retrofitted at the end."
+    },
+    callout: "We work with organisations at every stage \u2014 from early exploration and innovation through to production deployment and compliance. The earlier you address the human layer, the less it costs to get right."
+  },
+  capabilities: {
+    heading: "What makes this work",
+    intro1: "Most AI adoption challenges are not technology problems. They are human, organisational, and design problems \u2014 and they show up at every stage, from the first internal conversation about AI through to production deployment and ongoing governance.",
+    intro2: "The missing piece is someone who can work across all of those stages and translate between all of the people involved.",
+    closing: "Whether your AI is a finished system, a live pilot, or still a question on a leadership agenda \u2014 this is where we start.",
+    items: [
+      {
+        title: "AI Adoption",
+        body: "Moving organisations from AI ambition to working systems people actually use \u2014 at whatever stage you are at."
+      },
+      {
+        title: "AI Enablement",
+        body: "Building internal capability so your teams \u2014 from frontline employees to leadership \u2014 can engage with, govern, and get value from AI confidently."
+      },
+      {
+        title: "Human-Centered AI",
+        body: "Designing AI systems and AI adoption processes around the people who use them: their needs, their limits, their trust."
+      },
+      {
+        title: "Responsible AI",
+        body: "Translating EU AI Act obligations, ethics frameworks, and governance requirements into real decisions \u2014 in innovation, in procurement, and in production."
+      },
+      {
+        title: "Digital Transformation",
+        body: "Connecting AI adoption to wider organisational change \u2014 processes, culture, communication, and readiness."
+      },
+      {
+        title: "Workshop Facilitation & AI Governance",
+        body: "Running working sessions that move teams from uncertainty to action \u2014 and presenting findings to C-suite in language that lands."
+      }
+    ]
   },
   services: {
     heading: "Three ways we work with you",
-    s1: { title: "Trust Audit", body: "We assess your AI system against the four Trust Layer principles \u2014 explainability, recoverability, accessibility, and human control \u2014 and show you exactly where the gaps are.", link: "trustaudit.tools \u2192" },
-    s2: { title: "Framework Implementation", body: "We design and build the Trust Layer into your existing AI systems and processes, working alongside your product, UX, and compliance teams." },
-    s3: { title: "EU AI Act Readiness", body: "We map your high-risk AI obligations and build the human-centred compliance layer you need before August 2026." }
+    s1: {
+      title: "Trust Audit",
+      body: "We assess your AI system or AI adoption plans against the four Trust Layer principles \u2014 explainability, recoverability, accessibility, and human control \u2014 and show you exactly where the gaps are, whether you are in discovery or in production.",
+      link: "trustaudit.tools \u2192"
+    },
+    s2: {
+      title: "Framework Implementation",
+      body: "We design and build the Trust Layer into your AI systems, innovation projects, and organisational processes \u2014 working alongside your technical, product, UX, compliance, and leadership teams from early exploration through to deployment."
+    },
+    s3: {
+      title: "EU AI Act Readiness",
+      body: "We map your high-risk AI obligations \u2014 current and anticipated \u2014 and build the human-centred compliance layer your organisation needs. Enforcement is underway. We help you move from documentation to implementation."
+    }
   },
   sectors: {
     heading: "We work with regulated industries deploying high-risk AI",
@@ -33,9 +80,9 @@ const content = {
   },
   credibility: {
     heading: "Built on research. Validated in practice.",
-    body1: "The Trust by Design framework was developed through independent research across 14+ AI implementation teams in the German public sector, and validated through advisory sessions with process management leaders in regulated government institutions.",
-    body2: "We don\u2019t consult from the outside. We\u2019ve built government AI systems from the inside.",
-    strip: "Framework presented to 6+ German government communities \u00B7 Master\u2019s research, ELISAVA \u00B7 EU AI Act specialist"
+    body1: "The Trust by Design framework was developed through independent research across 14+ AI implementation teams in the German public sector, and validated through advisory work with regulated organisations across government, health, and finance.",
+    body2: "We don\u2019t consult from the outside. We\u2019ve built government AI systems from the inside \u2014 including Germany\u2019s first BITV-certified government application, with over a million users.",
+    strip: "i-Kfz \u00B7 Germany\u2019s first BITV-certified government app \u00B7 1M+ downloads \u00B7 Presented to 6+ German government communities \u00B7 MA Design for Responsible AI \u00B7 EU AI Act specialist"
   },
   tools: {
     heading: "Self-service tools if you\u2019re not ready to talk yet",
@@ -47,6 +94,13 @@ const content = {
     sub: "Discovery calls are 30 minutes. No obligation.",
     cta: "Book a Call",
     email: "info@jennifersimonds.com"
+  },
+  explore: {
+    links: [
+      { label: "Explore what AI could do for your organisation", href: "/innovation" },
+      { label: "Build AI capability across your teams", href: "/education" },
+      { label: "Understand your EU AI Act obligations", href: "/compliance" },
+    ]
   },
   footer: {
     tagline: "Building the human layer for trustworthy AI.",
@@ -136,6 +190,34 @@ export default function HomePage() {
               {content.gap.callout}
             </p>
           </div>
+        </div>
+      </section>
+
+      {/* ──────────────────────────────────────────────────────────
+          SECTION 1b — What makes this work (2×3 capability grid)
+          ────────────────────────────────────────────────────────── */}
+      <section aria-labelledby="capabilities-heading" className="bg-secondary py-16 md:py-24">
+        <div className="mx-auto max-w-5xl px-6">
+          <h2 id="capabilities-heading" className="font-sans text-2xl md:text-3xl font-bold text-foreground text-center text-balance">
+            {content.capabilities.heading}
+          </h2>
+          <p className="mt-6 text-muted-foreground leading-relaxed text-center max-w-3xl mx-auto">
+            {content.capabilities.intro1}
+          </p>
+          <p className="mt-4 text-muted-foreground leading-relaxed text-center max-w-3xl mx-auto">
+            {content.capabilities.intro2}
+          </p>
+          <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
+            {content.capabilities.items.map((item) => (
+              <div key={item.title} className="rounded-lg border border-[#0F1B2D]/10 bg-white p-6">
+                <h3 className="text-sm font-semibold text-[#F5A623]">{item.title}</h3>
+                <p className="mt-2 text-sm text-muted-foreground leading-relaxed">{item.body}</p>
+              </div>
+            ))}
+          </div>
+          <p className="mt-10 text-sm text-muted-foreground text-center leading-relaxed max-w-3xl mx-auto">
+            {content.capabilities.closing}
+          </p>
         </div>
       </section>
 
@@ -260,6 +342,22 @@ export default function HomePage() {
               </span>
             </a>
           </div>
+        </div>
+      </section>
+
+      {/* ──────────────────────────────────────────────────────────
+          SECTION 5b — Explore links (above final CTA)
+          ────────────────────────────────────────────────────────── */}
+      <section aria-label="Explore our services" className="py-12 md:py-16 border-t border-border">
+        <div className="mx-auto max-w-3xl px-6 space-y-3">
+          {content.explore.links.map((link) => (
+            <p key={link.href} className="text-sm text-muted-foreground">
+              <Link href={link.href} className="text-[#F5A623] font-medium hover:underline">
+                {link.label}
+              </Link>
+              <span aria-hidden="true"> {"\u2192"}</span>
+            </p>
+          ))}
         </div>
       </section>
 

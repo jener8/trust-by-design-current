@@ -8,8 +8,11 @@ import { useI18n } from "@/lib/i18n/context"
 
 const navLinks = [
   { href: "/", key: "nav.home" },
-  { href: "/about", key: "nav.aboutMe" },
+  { href: "/education", key: "nav.education" },
+  { href: "/innovation", key: "nav.innovation" },
+  { href: "/compliance", key: "nav.compliance" },
   { href: "/framework", key: "nav.theMethod" },
+  { href: "/about", key: "nav.aboutMe" },
   { href: "/contact", key: "nav.contact" },
 ]
 

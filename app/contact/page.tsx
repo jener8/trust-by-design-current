@@ -16,6 +16,15 @@ export default function ContactPage() {
         </p>
       </section>
 
+      <section aria-labelledby="intro-heading" className="mx-auto max-w-3xl px-6 pb-12 md:pb-16">
+        <h2 id="intro-heading" className="font-sans text-2xl text-foreground">
+          {t("intro.heading")}
+        </h2>
+        <p className="mt-4 text-muted-foreground leading-relaxed">
+          {t("intro.body")}
+        </p>
+      </section>
+
       <section aria-labelledby="email-heading" className="bg-secondary py-14 md:py-18">
         <div className="mx-auto max-w-3xl px-6">
           <h2 id="email-heading" className="font-sans text-2xl text-foreground">{t("email.heading")}</h2>

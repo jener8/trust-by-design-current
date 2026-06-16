@@ -3,6 +3,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import { useI18n } from "@/lib/i18n/context"
+import { FormattedText } from "@/lib/i18n/formatted-text"
 
 export default function FrameworkPage() {
   const { t } = useI18n()
@@ -38,9 +39,7 @@ export default function FrameworkPage() {
             <h2 id="step1-heading" className="mt-1 font-sans text-xl md:text-2xl text-foreground">
               {t("step1.heading")}
             </h2>
-            <p className="mt-3 text-muted-foreground leading-relaxed">
-              {t("step1.body")}
-            </p>
+            <FormattedText text={t("step1.body")} className="mt-3" />
           </div>
         </div>
       </section>
@@ -63,9 +62,7 @@ export default function FrameworkPage() {
             <h2 id="step2-heading" className="mt-1 font-sans text-xl md:text-2xl text-foreground">
               {t("step2.heading")}
             </h2>
-            <p className="mt-3 text-muted-foreground leading-relaxed">
-              {t("step2.body")}
-            </p>
+            <FormattedText text={t("step2.body")} className="mt-3" />
           </div>
         </div>
       </section>
@@ -88,9 +85,7 @@ export default function FrameworkPage() {
             <h2 id="step3-heading" className="mt-1 font-sans text-xl md:text-2xl text-foreground">
               {t("step3.heading")}
             </h2>
-            <p className="mt-3 text-muted-foreground leading-relaxed">
-              {t("step3.body")}
-            </p>
+            <FormattedText text={t("step3.body")} className="mt-3" />
           </div>
         </div>
       </section>
@@ -112,9 +107,7 @@ export default function FrameworkPage() {
             <h2 id="compare-heading" className="font-sans text-xl md:text-2xl text-foreground">
               {t("compare.heading")}
             </h2>
-            <p className="mt-3 text-muted-foreground leading-relaxed">
-              {t("compare.body")}
-            </p>
+            <FormattedText text={t("compare.body")} className="mt-3" />
           </div>
         </div>
       </section>
@@ -137,9 +130,11 @@ export default function FrameworkPage() {
               <h2 id="sample-heading" className="font-sans text-xl md:text-2xl text-foreground">
                 {t("sample.heading")}
               </h2>
-              <p className="mt-3 text-muted-foreground leading-relaxed">
-                {t("sample.body")}
-              </p>
+              {t("sample.body") ? (
+                <p className="mt-3 text-muted-foreground leading-relaxed">
+                  {t("sample.body")}
+                </p>
+              ) : null}
             </div>
           </div>
 
