@@ -1,0 +1,15 @@
+{
+  "nav.home": "Home",
+  "nav.aboutMe": "About",
+  "nav.theMethod": "The Method",
+  "nav.contact": "Contact",
+  "language.label": "Language",
+  "language.english": "English",
+  "language.german": "German",
+  "footer.tagline": "Building the human layer for trustworthy AI.",
+  "footer.copyright": "\u00a9 2026 Trust by Design",
+  "footer.imprint": "Imprint",
+  "footer.aiAttribution": "This website was built with AI assistance through prompting. All ideas, strategy, and content are created by humans.",
+  "pageNav.back": "Back",
+  "pageNav.home": "Home"
+}

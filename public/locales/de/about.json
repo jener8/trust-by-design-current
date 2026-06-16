@@ -1,0 +1,15 @@
+{
+  "hero.heading": "Ueber mich",
+
+  "bio.p1": "Ueber 10 Jahre Erfahrung in der Gestaltung digitaler Produkte in regulierten Umgebungen, einschliesslich Deutschlands erster BITV-zertifizierter Regierungs-App mit ueber 1 Million Nutzern.",
+  "bio.p2": "Master in Design for Responsible AI. Aufbau des Trust by Design Frameworks an der Schnittstelle von Barrierefreiheit, KI-Governance und menschenzentriertem Design.",
+  "bio.p3": "Ich arbeite mit oeffentlichen und regulierten Organisationen, um herauszufinden, wo ihre KI-Systeme Menschen ausschliessen -- und das zu beheben, bevor es ein rechtliches oder Reputationsproblem wird.",
+  "bio.location": "Verankert in Berlin. Taetig in der gesamten EU.",
+
+  "approach.heading": "Wie ich arbeite",
+  "approach.body": "Ich schreibe keine 80-seitigen Grundsatzdokumente. Ich baue praktische Entscheidungswerkzeuge fuer die Menschen, die taeglich Entscheidungen ueber KI treffen. Ich teste mit den Nutzern, die am wahrscheinlichsten ausgeschlossen werden. Und ich uebersetze, was Ihr System tut, in Sprache, die Vertrauen schafft.",
+
+  "cta.heading": "Zusammenarbeiten?",
+  "cta.body": "Ein 20-minuetiges Gespraech kostet nichts und beantwortet meist die Frage.",
+  "cta.button": "Gespraech vereinbaren"
+}

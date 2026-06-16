@@ -1,0 +1,25 @@
+{
+  "hero.heading": "Evidence in practice",
+  "hero.subheading": "We study the people your AI was not designed for -- and use them to show exactly where your system breaks.",
+
+  "cases.heading": "Case studies",
+  "cases.card1.title": "Adults over 60",
+  "cases.card1.desc": "The largest demographic gap between AI training data and real-world users. If your system fails here, the problem is bias -- not the user.",
+  "cases.card1.link": "See the case study",
+  "cases.card2.title": "Children in education",
+  "cases.card2.desc": "The clearest test of whether explainability is real or performative. If a 12-year-old cannot understand why AI made a decision about them, your transparency is theatre.",
+  "cases.card2.link": "See the case study",
+  "cases.card3.title": "Patients in clinical AI",
+  "cases.card3.desc": "The highest-stakes test of fairness. Unexplainable AI recommendations in health settings are an EU AI Act Article 22 issue.",
+  "cases.card3.link": "See the case study",
+
+  "reframe.quote": "Older adults are not bad at technology. They are the most accurate test of whether your AI was designed for real people.",
+  "reframe.body": "If your system fails a 68-year-old retired teacher, it is not her problem to fix.",
+
+  "method.heading": "Our method",
+  "method.body": "We don't study edge cases. We study the populations that reveal systemic failures in AI design: the groups your training data underrepresents, the users your interface wasn't optimised for, the people whose needs expose assumptions you didn't know you'd made.",
+
+  "cta.heading": "Want to see the evidence for your system?",
+  "cta.body": "A bias audit takes days, not months. The findings are always actionable.",
+  "cta.button": "Discuss an audit"
+}
