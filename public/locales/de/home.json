@@ -1,0 +1,40 @@
+{
+  "hero.sub": "Wir helfen regulierten Organisationen in Verwaltung, Gesundheitswesen und Finanzbranche, die menschliche Schicht aufzubauen, die KI-Systeme vertrauensw\u00fcrdig, konform und tats\u00e4chlich nutzbar macht.",
+  "hero.cta": "Erstgespr\u00e4ch buchen",
+  "hero.cta2": "Das Framework ansehen",
+
+  "gap.left.heading": "Ihr KI-System ist technisch bereit.",
+  "gap.left.body": "Es ist pr\u00e4zise. Es ist sicher. Es erf\u00fcllt Ihre Compliance-Checkliste. Ihr Team hat gut gebaut.",
+  "gap.right.heading": "Aber ist es menschlich vertrauensw\u00fcrdig?",
+  "gap.right.body": "Wenn Nutzer die Entscheidungen nicht verstehen, sich nicht korrigieren lassen und sie nicht \u00fcbersteuern k\u00f6nnen, wenn sie m\u00fcssen \u2014 wird es im Einsatz scheitern. Das ist kein technisches Problem. Es ist ein Designproblem.",
+  "gap.callout": "67% der Nutzer brechen KI-Systeme ab, die sie nicht verstehen. 42% mehr Helpdesk-Kosten folgen. Wir beheben das, bevor es passiert.",
+
+  "services.heading": "Drei Wege, wie wir mit Ihnen arbeiten",
+  "services.s1.title": "Trust Audit",
+  "services.s1.body": "Wir bewerten Ihr KI-System anhand der vier Trust-Layer-Prinzipien \u2014 Erkl\u00e4rbarkeit, Wiederherstellbarkeit, Zug\u00e4nglichkeit und menschliche Kontrolle \u2014 und zeigen Ihnen genau, wo die L\u00fccken sind.",
+  "services.s2.title": "Framework-Implementierung",
+  "services.s2.body": "Wir entwerfen und bauen den Trust Layer in Ihre bestehenden KI-Systeme und Prozesse ein, gemeinsam mit Ihrem Produkt-, UX- und Compliance-Team.",
+  "services.s3.title": "EU AI Act Readiness",
+  "services.s3.body": "Wir kartieren Ihre Hochrisiko-KI-Pflichten und bauen die menschenzentrierte Compliance-Schicht auf, die Sie vor August 2026 brauchen.",
+
+  "sectors.heading": "Wir arbeiten mit regulierten Branchen, die Hochrisiko-KI einsetzen",
+  "sectors.gov.title": "Verwaltung",
+  "sectors.gov.body": "Bundesbeh\u00f6rden, Ministerien und \u00f6ffentliche Einrichtungen, die KI in b\u00fcrgerbezogenen Diensten einsetzen.",
+  "sectors.health.title": "Gesundheitswesen",
+  "sectors.health.body": "Krankenh\u00e4user, Versicherer und Gesundheitstechnologie-Unternehmen, die KI f\u00fcr Diagnose, Triage oder Patientenentscheidungen nutzen.",
+  "sectors.finance.title": "Finanzwesen",
+  "sectors.finance.body": "Banken, Versicherer und Finanzinstitute, die KI f\u00fcr Kredit-, Betrugs- oder Berechtigungsentscheidungen nutzen.",
+
+  "evidence.heading": "Auf Forschung gebaut. In der Praxis validiert.",
+  "evidence.p1": "Das Trust by Design Framework wurde durch unabh\u00e4ngige Forschung mit \u00fcber 14 KI-Implementierungsteams im deutschen \u00f6ffentlichen Sektor entwickelt und durch Beratungssitzungen mit Prozessmanagement-Leitern in regulierten Beh\u00f6rden validiert.",
+  "evidence.p2": "Wir beraten nicht von au\u00dfen. Wir haben KI-Systeme f\u00fcr die \u00f6ffentliche Verwaltung von innen gebaut.",
+  "evidence.strip": "Framework pr\u00e4sentiert vor 6+ deutschen Beh\u00f6rden-Communities \u00B7 Masterarbeit, ELISAVA \u00B7 EU AI Act Spezialistin",
+
+  "tools.heading": "Self-Service-Tools, wenn Sie noch nicht bereit f\u00fcr ein Gespr\u00e4ch sind",
+  "tools.audit.body": "F\u00fchren Sie Ihre eigene Trust-Layer-Bewertung durch. Identifizieren Sie L\u00fccken bei Erkl\u00e4rbarkeit, Wiederherstellung, Zug\u00e4nglichkeit und Kontrolle.",
+  "tools.bridge.body": "Sehen Sie, wie der Trust Layer in der Praxis in Verwaltung, Gesundheitswesen und Finanzbranche funktioniert.",
+
+  "contact.heading": "Bereit, vertrauensw\u00fcrdige KI zu bauen?",
+  "contact.body": "Erstgespr\u00e4che dauern 30 Minuten. Ohne Verpflichtung.",
+  "contact.cta": "Termin buchen"
+}

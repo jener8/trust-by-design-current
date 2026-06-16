@@ -1,0 +1,25 @@
+{
+  "hero.heading": "Evidenz in der Praxis",
+  "hero.subheading": "Wir untersuchen die Menschen, fuer die Ihre KI nicht entwickelt wurde -- und zeigen damit genau, wo Ihr System versagt.",
+
+  "cases.heading": "Fallstudien",
+  "cases.card1.title": "Erwachsene ueber 60",
+  "cases.card1.desc": "Die groesste demografische Luecke zwischen KI-Trainingsdaten und realen Nutzern. Wenn Ihr System hier versagt, liegt das Problem bei der Voreingenommenheit -- nicht beim Nutzer.",
+  "cases.card1.link": "Zur Fallstudie",
+  "cases.card2.title": "Kinder in der Bildung",
+  "cases.card2.desc": "Der klarste Test, ob Erklaerbarkeit real oder performativ ist. Wenn ein 12-Jaehriger nicht verstehen kann, warum eine KI eine Entscheidung ueber ihn getroffen hat, ist Ihre Transparenz Theater.",
+  "cases.card2.link": "Zur Fallstudie",
+  "cases.card3.title": "Patienten in klinischer KI",
+  "cases.card3.desc": "Der Test mit den hoechsten Einsaetzen fuer Fairness. Nicht erklaerbare KI-Empfehlungen im Gesundheitswesen sind ein Problem nach EU AI Act Artikel 22.",
+  "cases.card3.link": "Zur Fallstudie",
+
+  "reframe.quote": "Aeltere Menschen sind nicht schlecht im Umgang mit Technologie. Sie sind der genaueste Test dafuer, ob Ihre KI fuer echte Menschen entwickelt wurde.",
+  "reframe.body": "Wenn Ihr System bei einer 68-jaehrigen pensionierten Lehrerin versagt, ist es nicht ihr Problem, das zu loesen.",
+
+  "method.heading": "Unsere Methode",
+  "method.body": "Wir untersuchen keine Randfaelle. Wir untersuchen die Populationen, die systemische Fehler im KI-Design aufdecken: die Gruppen, die Ihre Trainingsdaten unterrepraesentiert, die Nutzer, fuer die Ihre Oberflaeche nicht optimiert wurde.",
+
+  "cta.heading": "Evidenz fuer Ihr System sehen?",
+  "cta.body": "Ein Bias-Audit dauert Tage, nicht Monate. Die Ergebnisse sind immer umsetzbar.",
+  "cta.button": "Audit besprechen"
+}

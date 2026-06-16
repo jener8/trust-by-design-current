@@ -1,0 +1,43 @@
+{
+  "s1.heading": "I find out what is wrong. Then I build the fix.",
+  "s1.body": "Every AI has different problems. I do not use a one-size-fits-all checklist. I look at your AI, talk to the people it affects, and build a solution that fits.",
+
+  "step1.heading": "I talk to the people your AI affects.",
+  "step1.body": "Before I look at the technology, I talk to the real people using it. They show me exactly where things go wrong.",
+
+  "step2.heading": "I name the exact problem.",
+  "step2.body": "Is the AI unfair to some people? Is it too confusing? I figure out exactly what is broken so we fix the right thing.",
+
+  "step3.heading": "I build a tool your team can use.",
+  "step3.body": "Not a long report. A simple, practical guide your team can follow. Something you can start using right away.",
+
+  "compare.heading": "This is not a tick-box exercise.",
+  "compare.body": "A compliance checklist tells you if you pass a test. It does not tell you if real people can actually use your AI. I find out what real people struggle with.",
+
+  "sample.heading": "What does a framework look like?",
+  "sample.body": "It is a set of simple questions your team asks before every AI decision. Here is a real example.",
+  "sample.q1": "Who will this AI affect?",
+  "sample.a1": "List every group. Include the ones easiest to forget: elderly, children, disabled, low-income.",
+  "sample.q2": "Can they understand what the AI decided?",
+  "sample.a2": "If a 70-year-old cannot explain the decision back to you, it is not clear enough.",
+  "sample.q3": "Can they say no?",
+  "sample.a3": "There must always be a way to opt out or talk to a human instead.",
+  "sample.q4": "What happens when the AI is wrong?",
+  "sample.a4": "Every AI makes mistakes. Your team needs a plan for when that happens.",
+  "sample.q5": "Who checks this every 6 months?",
+  "sample.a5": "A framework only works if someone is responsible for keeping it up to date.",
+  "sample.note": "This is a simplified example. The real framework I build for your team is tailored to your AI, your users, and your regulations.",
+
+  "example.heading": "Example: TrustBridge",
+  "example.body": "Banks, hospitals, and schools were building AI that left out older adults, children, and patients. I tested it with those real people and built a design system to fix it.",
+  "example.link": "See the TrustBridge case studies",
+
+  "audit.heading": "Example: The AI Trust Audit",
+  "audit.body": "I run a short session with your team. We fill in a questionnaire and then talk it through together. I find out how your team really feels about AI -- what scares them, what they need, and what would make them feel safe. You get a clear report, a list of what to fix first, and paperwork that helps with EU AI Act rules.",
+  "audit.link": "Book a session",
+
+  "cta.heading": "Tell me what is going wrong.",
+  "cta.body": "Write me a few sentences about your AI problem. I will reply within 48 hours.",
+  "cta.button": "Send me a message",
+  "cta.note": "No commitment. Just a clear answer."
+}

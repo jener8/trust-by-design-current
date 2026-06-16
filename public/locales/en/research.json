@@ -1,0 +1,22 @@
+{
+  "hero.heading": "Research",
+  "hero.subheading": "The Trust by Design framework is open research. If you're building responsible AI, use it. That's what it's for.",
+
+  "areas.heading": "Research areas",
+  "areas.bias.title": "Bias in AI training data",
+  "areas.bias.desc": "Investigating demographic gaps between AI training data and real-world user populations, with a focus on older adults, children, and patients.",
+  "areas.explainability.title": "Explainability standards",
+  "areas.explainability.desc": "Developing practical tests for whether AI decisions are genuinely understandable to the people affected by them.",
+  "areas.inclusion.title": "Digital inclusion for older adults",
+  "areas.inclusion.desc": "Understanding how AI systems fail people over 60 -- and what that reveals about systemic design assumptions.",
+  "areas.governance.title": "Governance frameworks",
+  "areas.governance.desc": "Building decision tools that translate EU AI Act requirements into daily product decisions for design and engineering teams.",
+
+  "open.heading": "Open by design",
+  "open.body": "All research from the Trust by Design framework is published openly. If you're a designer, researcher, or product person trying to make the case for bias testing, fairness reviews, or explainability standards inside your organisation -- use it.",
+  "open.link": "Browse the research on trustbridge.design",
+
+  "cta.heading": "Interested in collaboration?",
+  "cta.body": "I work with academic institutions, public-sector organisations, and product teams on applied research.",
+  "cta.button": "Get in touch"
+}

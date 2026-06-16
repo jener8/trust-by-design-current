@@ -1,0 +1,22 @@
+{
+  "hero.heading": "Forschung",
+  "hero.subheading": "Das Trust by Design Framework ist offene Forschung. Wenn Sie verantwortungsvolle KI bauen, nutzen Sie es. Dafuer ist es da.",
+
+  "areas.heading": "Forschungsbereiche",
+  "areas.bias.title": "Voreingenommenheit in KI-Trainingsdaten",
+  "areas.bias.desc": "Untersuchung demografischer Luecken zwischen KI-Trainingsdaten und realen Nutzerpopulationen, mit Fokus auf aeltere Erwachsene, Kinder und Patienten.",
+  "areas.explainability.title": "Erklaerbarkeitsstandards",
+  "areas.explainability.desc": "Entwicklung praktischer Tests dafuer, ob KI-Entscheidungen fuer die Betroffenen wirklich verstaendlich sind.",
+  "areas.inclusion.title": "Digitale Inklusion fuer aeltere Erwachsene",
+  "areas.inclusion.desc": "Verstehen, wie KI-Systeme bei Menschen ueber 60 versagen -- und was das ueber systemische Designannahmen verraet.",
+  "areas.governance.title": "Governance-Frameworks",
+  "areas.governance.desc": "Aufbau von Entscheidungswerkzeugen, die EU-AI-Act-Anforderungen in taegliche Produktentscheidungen fuer Design- und Engineering-Teams uebersetzen.",
+
+  "open.heading": "Offen von Design her",
+  "open.body": "Alle Forschung aus dem Trust by Design Framework wird offen veroeffentlicht. Wenn Sie Designer, Forscher oder Produktverantwortlicher sind und in Ihrer Organisation fuer Bias-Tests, Fairness-Reviews oder Erklaerbarkeitsstandards argumentieren -- nutzen Sie es.",
+  "open.link": "Forschung auf trustbridge.design durchstoebern",
+
+  "cta.heading": "Interesse an Zusammenarbeit?",
+  "cta.body": "Ich arbeite mit akademischen Institutionen, oeffentlichen Organisationen und Produktteams an angewandter Forschung.",
+  "cta.button": "Kontakt aufnehmen"
+}

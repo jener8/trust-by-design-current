@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Single-color silhouette: fills canvas tightly for better legibility -->
+  <path fill="#000" d="M32 2c-7.3 5.3-16 6.5-25.6 4.6v13.4c0 17.1 11.8 30.8 25.6 34.9 13.8-4.1 25.6-17.8 25.6-34.9V6.6C48 8.5 39.3 7.3 32 2z"></path>
+  <path fill="#000" d="M32 45.5c1.2 0 2.2-1 2.2-2.2V25.4l6.1 6.1c.8.8 2 .8 2.8 0s.8-2 0-2.8l-9.4-9.4c-.8-.8-2-.8-2.8 0l-9.4 9.4c-.8.8-.8 2 0 2.8s2 .8 2.8 0l6.1-6.1v17.9c0 1.2 1 2.2 2.2 2.2z"></path>
+</svg>

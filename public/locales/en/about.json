@@ -1,0 +1,15 @@
+{
+  "hero.heading": "About",
+
+  "bio.p1": "10+ years designing digital products in regulated environments, including Germany's first BITV-certified government app used by over 1 million people.",
+  "bio.p2": "Master's in Design for Responsible AI. Building the Trust by Design framework at the intersection of accessibility, AI governance, and human-centred design.",
+  "bio.p3": "I work with public-sector and regulated-industry teams to find where their AI systems exclude people -- and fix it before it becomes a legal or reputational problem.",
+  "bio.location": "Anchored in Berlin. Working across the EU.",
+
+  "approach.heading": "How I work",
+  "approach.body": "I don't write 80-page policy documents. I build practical decision tools for the people who actually make daily choices about AI. I test with the users most likely to be excluded. And I translate what your system does into language that builds trust rather than confusion.",
+
+  "cta.heading": "Want to work together?",
+  "cta.body": "A 20-minute conversation costs nothing and usually answers the question.",
+  "cta.button": "Book a conversation"
+}
